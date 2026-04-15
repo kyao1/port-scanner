@@ -104,6 +104,6 @@ No external libraries needed — uses Python's built-in `socket` module only.
 
 ## Author
 
-**Konan Achille Yao**
+**Konan Y.**
 - LinkedIn: [linkedin.com/in/konanyao](https://linkedin.com/in/konanyao)
-- CompTIA A+ certified | A.S. Cybersecurity & Information Assurance (GPA 3.9) | IU Indianapolis CS student
+- CompTIA A+ certified | A.S. Cybersecurity & Information Assurance | IU Indianapolis CS student
